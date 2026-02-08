@@ -1,7 +1,7 @@
 # Beginner's Toolkit: Getting Started with Rust Programming
 
-**Author:** [Your Name]  
-**Date:** February 6, 2026  
+**Author:** Ivan Mounde  
+**Date:** February 8, 2026  
 **Technology:** Rust Programming Language  
 **Project:** Interactive Hello World with Color Output
 
